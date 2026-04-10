@@ -1,0 +1,17 @@
+{
+	"name": "adfcrmfile",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\USER\\adfperpokrpr",
+			"userId": "che",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3NTA4ZGRiYy04MTRjLTQxNGYtYjcwYi00NTFhMzM5Yjc2NTEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "azureintegrationIR",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
