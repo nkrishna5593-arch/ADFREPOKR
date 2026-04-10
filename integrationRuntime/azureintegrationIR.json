@@ -1,0 +1,6 @@
+{
+	"name": "azureintegrationIR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
