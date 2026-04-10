@@ -1,0 +1,9 @@
+{
+	"name": "ADFKRADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d45c33a6-a3a4-4e84-adb8-4fa8a73c28c9",
+		"tenantId": "24c87956-56e5-4fa7-a654-1d0cb9eb3bc5"
+	}
+}
